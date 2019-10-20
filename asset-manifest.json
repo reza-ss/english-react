@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcf684d1.chunk.css",
+    "main.js": "/static/js/main.27de1f77.chunk.js",
+    "main.js.map": "/static/js/main.27de1f77.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+    "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+    "static/css/2.d0cea9b5.chunk.css": "/static/css/2.d0cea9b5.chunk.css",
+    "static/js/2.52c07bbc.chunk.js": "/static/js/2.52c07bbc.chunk.js",
+    "static/js/2.52c07bbc.chunk.js.map": "/static/js/2.52c07bbc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.09d727aa5a1b714babcbb9551740883a.js": "/precache-manifest.09d727aa5a1b714babcbb9551740883a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d0cea9b5.chunk.css.map": "/static/css/2.d0cea9b5.chunk.css.map",
+    "static/css/main.dcf684d1.chunk.css.map": "/static/css/main.dcf684d1.chunk.css.map",
+    "static/media/Sound-Loader.c8a04e36.svg": "/static/media/Sound-Loader.c8a04e36.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ef3df984.eot",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/main-icon.svg": "/static/media/main-icon.9401ff13.svg",
+    "static/media/main-text.a8d60653.svg": "/static/media/main-text.a8d60653.svg"
+  }
+}
